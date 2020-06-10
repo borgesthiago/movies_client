@@ -1,4 +1,4 @@
-# movie_client
+# movies_client
 
 ## Project setup
 ```
