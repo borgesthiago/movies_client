@@ -10,7 +10,9 @@
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap-vue": "^2.1.0",
-    "vue": "^2.5.17"
+    "vue": "^2.5.17",
+    "vue-flag-icon": "^1.0.6",
+    "vue-i18n": "^8.18.2"
   },
   "devDependencies": {
     "@babel/polyfill": "^7.7.0",

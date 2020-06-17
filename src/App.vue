@@ -1,11 +1,12 @@
 <template>
     <div id="app">
-        <div id="nav"></div>
+        <!--<top-header id="nav"></top-header>-->
         <home/>
     </div>
 </template>
 
 <script>
+
     import Home from "./components/Home.vue";
 
     export default {
@@ -33,17 +34,5 @@
                 color: #42b983;
             }
         }
-    }
-    .page {
-        position: absolute;
-        background: rgba(0, 0, 0, 0.3);
-        z-index: 25;
-        width: 100%;
-        height: 100%;
-    }
-    .spinner {
-        z-index: 26;
-        position: relative;
-        top: 50%;
     }
 </style>
